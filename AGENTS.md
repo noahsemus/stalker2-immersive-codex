@@ -9,8 +9,11 @@ Repo `noahsemus/stalker2-immersive-codex`, Zone Kit plugin `ImmersiveCodex` (`/I
 harness on 2026-10-01.
 
 ## Current state (one line per checkpoint / release: date, what changed, what the tester confirmed in game)
-- 2026-10-01: repo created. Next: the tester picks `ImmersiveCodex` in the editor's toolbar mod selector once
-  (GameFeatureData), then kit research for PLAN.md.
+- 2026-10-01: repo created to record the idea; **not started** (Noah: "codify the idea for later"). Created with
+  `new_mod.ps1 -NoKit`, so there is no Zone Kit plugin yet. The idea, open questions and research leads are in
+  `PLAN.md`. When Noah says to start: answer the PLAN.md questions with him, do the kit research, then create the
+  plugin (`CreatePlainMod.bat ImmersiveCodex`, uplugin fields as in `harness/tools/new_mod.ps1`) and have him pick it
+  in the toolbar mod selector.
 
 ## Key facts (verified; cite file:line in the kit)
 - _(fill in as research lands)_
